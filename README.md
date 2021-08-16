@@ -1,7 +1,7 @@
 # Ecommerce UPMedal
-desafio #3 - Criar a solução a partir de um boiler template padrão da Vtex IO
+Desafio #3 - Criar a solução a partir de um boiler template padrão da Vtex IO
 
-- Utilizar o Markdown + o css para formatação - https://pt.wikipedia.org/wiki/Markdown
+[![PDF](https://img.shields.io/badge/BRIEFING-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/E-commerce-UPMedal.com.pdf)
 
 ![layout](assets/layout.jpg)
 
