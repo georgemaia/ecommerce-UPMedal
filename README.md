@@ -1,7 +1,7 @@
 # Ecommerce UPMedal
 Desafio #3 - Criar a solução a partir de um boiler template padrão da Vtex IO
 
-[![PDF](https://img.shields.io/badge/BRIEFING-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/E-commerce-UPMedal.com.pdf) [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)](assets/E-commerce-UPMedal.com.pdf)
+[![PDF](https://img.shields.io/badge/BRIEFING-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/E-commerce-UPMedal.com.pdf) [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)]()
 
 ![layout](assets/layout.jpg)
 
