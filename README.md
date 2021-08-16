@@ -3,6 +3,8 @@ desafio #3 - Criar a solução a partir de um boiler template padrão da Vtex IO
 
 - Utilizar o Markdown + o css para formatação - https://pt.wikipedia.org/wiki/Markdown
 
+![layout](assets/layout.jpg)
+
 ## Desktop
 
 Para esta tela utilizar os componentes:
