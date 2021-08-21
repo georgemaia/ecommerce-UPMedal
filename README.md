@@ -3,6 +3,8 @@ Desafio #3 - Criar a solução a partir de um boiler template padrão da Vtex IO
 
 [![PDF](https://img.shields.io/badge/BRIEFING-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/E-commerce-UPMedal.com.pdf) ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 
+Layout proposto:
+
 ![layout](assets/layout.jpg)
 
 Site: https://georgemaiaupdmedal--hiringcoders2021.myvtex.com/
