@@ -4,50 +4,13 @@
     - Slider-layout para mostrar os banners em destaque;
     - Product-list para exibir os produtos com 8 itens da categoria;
     - Minicart para lista de produtos no carrinho;
-      - Ao crlicar no produto ir para tela com Product Summary;
+      - Ao clicar no produto ir para tela com Product Summary;
 */
 
 {
   "store.home": { 
     "blocks": [
-      "slider-layout#products"
+      
     ]
-  },
-  
-  "slider-layout#products": {
-    "props": {
-      "itemsPerPage": {
-        "desktop": 1,
-        "tablet": 1,
-        "phone": 1
-      },
-      "infinite": true,
-      "showNavigationArrows": "always",
-      "blockClass": "carousel",
-      "autoplay": {
-        "timeout": 5000,
-        "stopOnHover": true
-      }
-    },
-    "children": [
-      "image#banner1",
-      "image#banner2"
-    ]
-  },
-  "image#banner1": {
-    "props": {
-      "src": "./assets/banner1.png",
-      "alt": "Banner 1",
-      "width": "100%",
-      "blockClass": "banner"
-    }
-  },
-  "image#banner2": {
-    "props": {
-      "src": "asset/banner2.png",
-      "alt": "Banner 2",
-      "width": "100%",
-      "blockClass": "banner"
-    }
   }
 }
