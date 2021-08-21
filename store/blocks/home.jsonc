@@ -1,3 +1,12 @@
+/*
+  Blocos utilizados na Home:
+    - Tab-layout para as categorias dos produtos;
+    - Slider-layout para mostrar os banners em destaque;
+    - Product-list para exibir os produtos com 8 itens da categoria;
+    - Minicart para lista de produtos no carrinho;
+      - Ao crlicar no produto ir para tela com Product Summary;
+*/
+
 {
   "store.home": { 
     "blocks": [
