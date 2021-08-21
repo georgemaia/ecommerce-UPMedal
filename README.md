@@ -13,10 +13,9 @@ Para esta tela utilizar os componentes:
 
 - [ ] Flex Layout para criar as cores em css - https://vtex.io/docs/components/all/vtex.flex-layout@0.17.0/
 - [ ] Dar prioridade as páginas criada nos arquivos .jsonc colocando comentários dos blocos criados
-- [ ] Utilizar o Slider layout para mostrar os produtos em destaque - https://vtex.io/docs/app/vtex.slider-layout
 - [ ] Criar um componente Tab Layout para separar os produtos por categoria - https://vtex.io/docs/components/all/vtex.tab-layout@0.4.3/
-- [ ] Criar um bloco de lista de produtos - https://vtex.io/docs/app/vtex.product-list@0.31.0/
-- [ ] Sugestão paginado por 8 itens da categoria
+- [ ] Utilizar o Slider layout para mostrar os produtos em destaque - https://vtex.io/docs/app/vtex.slider-layout
+- [ ] Criar um bloco de lista de produtos - https://vtex.io/docs/app/vtex.product-list@0.31.0/ - Sugestão paginado por 8 itens da categoria
 - [ ] Criar Minicard para lista dos produtos no carrinho - https://vtex.io/docs/components/content-blocks/vtex.minicart@2.60.0/
 - [ ] Ao clicar no produto ir para tela com Product Summary - https://vtex.io/docs/components/all/vtex.product-summary@2.53.0/
 
