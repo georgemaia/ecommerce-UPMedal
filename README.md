@@ -5,7 +5,11 @@ Desafio #3 - Criar a solução a partir de um boiler template padrão da Vtex IO
 
 Layout proposto:
 
-![layout](assets/layout.jpg)
+![layout-proposto](assets/layout.jpg)
+
+Layout final:
+
+![layout-final](assets/layout-final.jpg)
 
 Site: https://georgemaiaupdmedal--hiringcoders2021.myvtex.com/
 
